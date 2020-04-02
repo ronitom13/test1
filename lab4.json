@@ -1,0 +1,43 @@
+{
+
+    "CrazyItems" : [
+
+        {
+            "name" : "Uranium ore",
+            "price" : 39.95,
+            "details" : "radioactive",
+            "image" : "image-1.jpg"
+        },
+
+        {
+            "name" : "A dog dryer",
+            "price" : 39.95,
+            "details" : "A blow dryer suit for your dog.",
+            "image" : "image-2.jpg"
+        },
+
+        {
+            "name" : "A cat carrier dress",
+            "price" : 16.99,
+            "details" : "Dress with cat pouch",
+            "image" : "image-3.jpg"
+        },
+
+        {
+            "name" : "A desktop refrigerator",
+            "price" : 38.00,
+            "details" : "Mini USB fridge for your desk",
+            "image" : "image-4.jpg"
+        },
+
+        {
+            "name" : "Nothing ",
+            "price" : 6.98,
+            "details" : "Traditional nothing for 7$",
+            "image" : "image-5.jpg"
+        }
+
+    ]
+
+
+}
